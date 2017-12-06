@@ -1,0 +1,31 @@
+{
+  "name": "postmean",
+  "version": "1.0.0",
+  "description": "Mean Stack Post with register login and crud post",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qlam699/PostMean.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "full",
+    "login",
+    "and",
+    "crud"
+  ],
+  "author": "qlamxmaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qlam699/PostMean/issues"
+  },
+  "homepage": "https://github.com/qlam699/PostMean#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6"
+  }
+}
